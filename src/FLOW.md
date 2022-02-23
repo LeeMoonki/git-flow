@@ -12,4 +12,4 @@
 10. history10
 11. history11
 
-history7, history8을 제외한 history9, history10 배포 필요
+QA를 진행하던 history7, history8와 추가된 history11 배포 필요
