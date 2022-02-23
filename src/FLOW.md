@@ -6,7 +6,10 @@
 4. history4
 5. history5
 6. history6
+7. history7 QA 완료
+8. history8 QA 완료
 9. history9
 10. history10
+11. history11
 
-history7, history8을 제외한 history9, history10 배포 필요
+QA를 진행하던 history7, history8와 추가된 history11 배포 필요
