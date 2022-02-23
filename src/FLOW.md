@@ -10,5 +10,6 @@
 8. history8 QA 완료
 9. history9
 10. history10
+11. history11
 
 history7, history8을 제외한 history9, history10 배포 필요
