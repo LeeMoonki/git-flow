@@ -8,3 +8,5 @@
 6. history6
 7. history7 QA 필요
 8. history8 QA 필요
+9. history9
+10. history10
