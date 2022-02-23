@@ -6,3 +6,4 @@
 4. history4
 5. history5
 6. history6
+7. history7 QA 필요
